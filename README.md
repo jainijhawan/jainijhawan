@@ -3,6 +3,7 @@
 # 💫 About Me:
  
  👋 Hey there, I'm Jai Nijhawan, an iOS developer with a passion for turning imagination into innovation 🪄💻. I'm on a quest to make your iOS experience smoother than ever. When I'm not battling bugs, you can find me exploring the Swift side of life 🚀 or brainstorming the next big app idea 💡. Feel free to join me on this epic coding journey! Let's make the iOS world a better place, one line of code at a time. 📱✨
+ 
  [![](https://visitcount.itsvg.in/api?id=JaiNijhawan&label=Profile%20Views&color=7&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 😎 Stuff I am Good at 
