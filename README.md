@@ -1,6 +1,6 @@
 ![apple-developer](https://user-images.githubusercontent.com/71421776/205568386-a9978052-ac07-4123-83bd-2d830a0bc81b.png)
 
-# 💫 About Me:
+# 💫 About Me: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
  
  👋 Hey there, I'm Jai Nijhawan, an iOS developer with a passion for turning imagination into innovation 🪄💻. I'm on a quest to make your iOS experience smoother than ever. When I'm not battling bugs, you can find me exploring the Swift side of life 🚀 or brainstorming the next big app idea 💡. Feel free to join me on this epic coding journey! Let's make the iOS world a better place, one line of code at a time. 📱✨
  
