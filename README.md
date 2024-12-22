@@ -4,7 +4,7 @@
  
  👋 Hey there, I'm Jai Nijhawan, an iOS developer with a passion for turning imagination into innovation 🪄💻. I'm on a quest to make your iOS experience smoother than ever. When I'm not battling bugs, you can find me exploring the Swift side of life 🚀 or brainstorming the next big app idea 💡. Feel free to join me on this epic coding journey! Let's make the iOS world a better place, one line of code at a time. 📱✨
  
- [![](https://visitcount.itsvg.in/api?id=JaiNijhawan&label=Profile%20Views&color=7&icon=2&pretty=false)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=JaiNijhawan&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 😎 Stuff I am Good at 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
